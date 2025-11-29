@@ -1,4 +1,4 @@
-# 🌐 InternConnect – Internship Matching Application
+# 🌐 InternConnect – Your Gateway to Meaningful Internships
 
 > _A cross-platform mobile application that bridges students and companies through streamlined internship discovery, application tracking, and real-time communication — built with React Native, TypeScript, and Supabase._
 
@@ -100,12 +100,4 @@ We prioritized **enterprise-grade security** from day one:
 </table>
 
 
----
-
-## 🏗️ System Architecture
-
-- **Frontend**: React Native + Expo (shared codebase for iOS & Android)
-- **Backend**: Supabase (PostgreSQL + Auth + Realtime + Storage)
-- **Security**: RLS policies, role checks, secure file access
-- **Workflow**: Student ↔ InternConnect ↔ Company (with university oversight)
 
