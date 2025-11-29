@@ -121,13 +121,6 @@ If you forget your password:
 - Keep internship postings current
 - Update application statuses regularly
 
-## 🤝 Support
-
-For any issues or questions:
-- Check our FAQ section in the app
-- Contact support through the app's help section
-- Email us at support@internconnect.com
-
 ## 🔒 Privacy & Security
 
 - All personal information is encrypted
