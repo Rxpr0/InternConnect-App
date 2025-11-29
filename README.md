@@ -59,7 +59,6 @@ We prioritized **enterprise-grade security** from day one:
 | **Application Tracking** | Real-time status: *Pending → Approved → Interview → Rejected* |
 | **Interview Scheduling** | Choose virtual/in-person, share meeting links, set reminders |
 | **Notifications** | Email + in-app alerts for every key event |
-| **Dark Mode** | Full UI consistency across all screens |
 | **Profile Completion** | Progress indicators for students (resume, skills, bio) |
 
 ---
@@ -67,34 +66,60 @@ We prioritized **enterprise-grade security** from day one:
 ## 📸 Screenshots
 
 <table>
-  <tr>
-    <td align="center" style="padding: 10px;">
+    <tr>
+      <td align="center" style="padding: 10px;">
       <b>Role Selection</b><br/>
-      <img src="https://github.com/Rxpr0/InternConnect/raw/main/screenshots/role_selection.png" width="90%" alt="Role Selection" />
+      <img src="https://github.com/Rxpr0/InternConnect-App/blob/main/RoleSelection.jpeg" width="90%" alt="Schedule Interview" />
     </td>
     <td align="center" style="padding: 10px;">
+      <b>Registration</b><br/>
+      <img src="https://github.com/Rxpr0/InternConnect-App/blob/main/Registration.jpeg" width="90%" alt="Apply with Resume" />
+    </td>
+      <td align="center" style="padding: 10px;">
       <b>Intern Dashboard</b><br/>
-      <img src="https://github.com/Rxpr0/InternConnect/raw/main/screenshots/intern_dashboard.png" width="90%" alt="Intern Dashboard" />
+      <img src="https://github.com/Rxpr0/InternConnect-App/blob/main/InternDashboard.jpeg" width="90%" alt="Apply with Resume" />
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 10px;">
-      <b>Internship Details</b><br/>
-      <img src="https://github.com/Rxpr0/InternConnect/raw/main/screenshots/internship_details.png" width="90%" alt="Internship Details" />
+     <td align="center" style="padding: 10px;">
+      <b>Browse internships</b><br/>
+      <img src="https://github.com/Rxpr0/InternConnect-App/blob/main/BrowseInternships.jpeg" width="90%"  alt="Intern Dashboard" />
     </td>
+    <td align="center" style="padding: 10px;">
+      <b>Submit Application</b><br/>
+      <img src="https://github.com/Rxpr0/InternConnect-App/blob/main/SubmitApplication.jpeg" width="90%" alt="Company Dashboard" />
+    </td>
+    <td align="center" style="padding: 10px;">
+      <b>Details</b><br/>
+      <img src="https://github.com/Rxpr0/InternConnect-App/blob/main/AppliedIntershipDetails.jpeg" width="90%"  alt="Role Selection" />
+    </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 10px;">
       <b>Company Dashboard</b><br/>
-      <img src="https://github.com/Rxpr0/InternConnect/raw/main/screenshots/company_dashboard.png" width="90%" alt="Company Dashboard" />
+      <img src="https://github.com/Rxpr0/InternConnect-App/blob/main/CompanyDashboard.jpeg" width="90%" alt="Intern Dashboard" />
+    </td>
+    <td align="center" style="padding: 10px;">
+      <b>Company Profile</b><br/>
+      <img src="https://github.com/Rxpr0/InternConnect-App/blob/main/CompanyProfile.jpeg" width="90%" alt="Internship Details" />
+    </td>
+    <td align="center" style="padding: 10px;">
+      <b>Edit Profile</b><br/>
+      <img src="https://github.com/Rxpr0/InternConnect-App/blob/main/EditProfile.jpeg" width="90%" alt="Company Dashboard" />
     </td>
   </tr>
   <tr>
     <td align="center" style="padding: 10px;">
-      <b>Apply & Upload Resume</b><br/>
-      <img src="https://github.com/Rxpr0/InternConnect/raw/main/screenshots/apply_resume.png" width="90%" alt="Apply with Resume" />
+      <b>Post Interview</b><br/>
+      <img src="https://github.com/Rxpr0/InternConnect-App/blob/main/PostInterview.jpeg" width="90%" alt="Schedule Interview" />
     </td>
     <td align="center" style="padding: 10px;">
-      <b>Interview Scheduling</b><br/>
-      <img src="https://github.com/Rxpr0/InternConnect/raw/main/screenshots/schedule_interview.png" width="90%" alt="Schedule Interview" />
+      <b>Pre Interview</b><br/>
+      <img src="https://github.com/Rxpr0/InternConnect-App/blob/main/PreInterview.jpeg" width="90%" alt="Company Dashboard" />
+    </td>
+     <td align="center" style="padding: 10px;">
+      <b>Error Alert</b><br/>
+      <img src="https://github.com/Rxpr0/InternConnect-App/blob/main/ErrorAlert.jpeg" width="90%" alt="Company Dashboard" />
     </td>
   </tr>
 </table>
