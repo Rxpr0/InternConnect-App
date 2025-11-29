@@ -110,12 +110,12 @@ We prioritized **enterprise-grade security** from day one:
   </tr>
   <tr>
        <td align="center" style="padding: 10px;">
-      <b>Pre Interview</b><br/>
-      <img src="https://github.com/Rxpr0/InternConnect-App/blob/main/PreInterview.jpeg" width="90%" alt="Company Dashboard" />
-    </td>
-       <td align="center" style="padding: 10px;">
       <b>Schedule Interview</b><br/>
       <img src="https://github.com/Rxpr0/InternConnect-App/blob/main/ScheduleInterview.jpeg" width="90%" alt="Company Dashboard" />
+    </td>
+       <td align="center" style="padding: 10px;">
+      <b>Pre Interview</b><br/>
+      <img src="https://github.com/Rxpr0/InternConnect-App/blob/main/PreInterview.jpeg" width="90%" alt="Company Dashboard" />
     </td>
     <td align="center" style="padding: 10px;">
       <b>After Interviewing</b><br/>
