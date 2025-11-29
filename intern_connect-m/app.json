@@ -1,0 +1,56 @@
+{
+  "expo": {
+    "name": "intern_connect",
+    "slug": "intern_connect",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/image/icon.png",
+    "scheme": "intern-connect-m",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "main": "./node_modules/expo-router/entry.js",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sxge99.intern_connect"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/image/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.sxge99.intern_connect"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/image/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/image/splash-icon.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    ],
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "your-project-id"
+      }
+    },
+    "assetBundlePatterns": [
+      "**/*",
+      "assets/image/*"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
