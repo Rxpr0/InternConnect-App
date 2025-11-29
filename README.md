@@ -13,7 +13,7 @@
 **InternConnect** is a **capstone senior project** developed by me at Prince Mohammed Bin Fahd University to solve a critical pain point:  
 > *Students struggle to find relevant internships, while companies lack efficient ways to discover and evaluate talent.*
 
-Our solution is a **secure, role-based platform** that offers:
+It is a **secure, role-based platform** that offers:
 - ✅ **Smart internship discovery** (search + filters by role, location, duration, pay)
 - ✅ **End-to-end application tracking**
 - ✅ **Real-time notifications** (application updates, interview scheduling)
