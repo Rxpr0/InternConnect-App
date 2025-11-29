@@ -109,15 +109,29 @@ We prioritized **enterprise-grade security** from day one:
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 10px;">
-      <b>Post Interview</b><br/>
-      <img src="https://github.com/Rxpr0/InternConnect-App/blob/main/PostInterview.jpeg" width="90%" alt="Schedule Interview" />
-    </td>
-    <td align="center" style="padding: 10px;">
+       <td align="center" style="padding: 10px;">
       <b>Pre Interview</b><br/>
       <img src="https://github.com/Rxpr0/InternConnect-App/blob/main/PreInterview.jpeg" width="90%" alt="Company Dashboard" />
     </td>
+       <td align="center" style="padding: 10px;">
+      <b>Schedule Interview</b><br/>
+      <img src="https://github.com/Rxpr0/InternConnect-App/blob/main/ScheduleInterview.jpeg" width="90%" alt="Company Dashboard" />
+    </td>
+    <td align="center" style="padding: 10px;">
+      <b>After Interviewing</b><br/>
+      <img src="https://github.com/Rxpr0/InternConnect-App/blob/main/PostInterview.jpeg" width="90%" alt="Schedule Interview" />
+    </td>
+  </tr>
+     <tr>
      <td align="center" style="padding: 10px;">
+      <b>Post Internship</b><br/>
+      <img src="https://github.com/Rxpr0/InternConnect-App/blob/main/PostInernship.jpeg" width="90%" alt="Company Dashboard" />
+    </td>
+    <td align="center" style="padding: 10px;">
+      <b>Notifications</b><br/>
+      <img src="https://github.com/Rxpr0/InternConnect-App/blob/main/Notifications.jpeg" width="90%" alt="Schedule Interview" />
+    </td>
+    <td align="center" style="padding: 10px;">
       <b>Error Alert</b><br/>
       <img src="https://github.com/Rxpr0/InternConnect-App/blob/main/ErrorAlert.jpeg" width="90%" alt="Company Dashboard" />
     </td>
